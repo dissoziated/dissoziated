@@ -13,7 +13,7 @@
 
 <hr/>
 
-<h2>About me</h2>
+<h2 align="center">About me</h2>
 
 <p>Hello, I'm <b>Nabeel Ahmed</b> &mdash; a Web & App Developer focused on building clean, scalable, and modern web and mobile applications. I value structure, performance, and long-term maintainability over hype.</p>
 
