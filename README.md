@@ -15,10 +15,10 @@
 
 <h2>About me</h2>
 
-<p>Hello, I'm <b>Nabeel Ahmed</b> &mdash; a Frontend Developer focused on building clean, scalable, and modern web and mobile applications. I value structure, performance, and long-term maintainability over hype.</p>
+<p>Hello, I'm <b>Nabeel Ahmed</b> &mdash; a Web & App Developer focused on building clean, scalable, and modern web and mobile applications. I value structure, performance, and long-term maintainability over hype.</p>
 
 <p align="center">
-  <b>Frontend Developer</b><br/>
+  <b>Frontend & Backend Developer</b><br/>
   <b>React / Next.js / TypeScript</b><br/>
   <b>Modern UI &amp; clean architecture</b><br/>
   <b>Strong GitHub collaboration mindset</b>
