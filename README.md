@@ -26,35 +26,24 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-
 Hello, I'm <b>Nabeel Ahmed</b> — a Web Developer and App Developer focused on building modern, scalable, and high-performance applications.
-
+<br><br>
 I enjoy creating clean user experiences, writing maintainable code, and continuously learning new technologies.
-
-</p>
-
-<br>
-
-<p align="center">
+<br><br><br>
 
 <b>Web Developer & App Developer</b>
+<br><br>
 
-<br>
+<b>Modern UI & Responsive Design<b>
+<br><br>
 
-Modern UI & Responsive Design
+<b>Scalable Web & Mobile Applications<b>
+<br><br>
 
-<br>
+<b>Clean Architecture & Performance Focus<b>
+<br><br>
 
-Scalable Web & Mobile Applications
-
-<br>
-
-Clean Architecture & Performance Focus
-
-<br>
-
-Strong GitHub Collaboration Mindset
-
+<b>Strong GitHub Collaboration Mindset<b>
 </p>
 <hr>
 <h2 align="center">Technologies</h2>
@@ -139,14 +128,13 @@ Experienced in team development using <b>GitHub</b>, pull requests, code reviews
 <h3 align="center">🔥 Contribution Streak</h3>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=dissoziated&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dissoziated&theme=transparent&background=0D1117&ring=F39C12&fire=F39C12&currStreakLabel=F39C12&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D&hide_border=true"/>
 </p>
-<br>
 
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dissoziated&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dissoziated&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true"/>
 </p>
 <h3 align="center">🏆 GitHub Trophies</h3>
 
