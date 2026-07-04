@@ -59,11 +59,11 @@
 
 <h2>Statistics</h2>
 
-<h3 align="center">Dissoziated's GitHub Stats</h3>
+<h3 align="center">Nabeel's GitHub Stats</h3>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dissoziated&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dissoziated&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dissoziated&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=dissoziated&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
 </p>
 
 <hr/>
@@ -79,5 +79,5 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dissoziated&theme=react-dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dissoziated&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&title_color=ffffff&hide_border=true" />
 </p>
