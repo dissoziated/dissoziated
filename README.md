@@ -57,7 +57,7 @@
 
 <hr/>
 
-<h2>Statistics</h2>
+<h2 align="center">Statistics</h2>
 
 <h3 align="center">Nabeel's GitHub Stats</h3>
 
