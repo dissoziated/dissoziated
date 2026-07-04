@@ -5,7 +5,7 @@
 <h2 align="center">🔗 Connect with me</h2>
 
 <p align="center">
-  <a href="https://your-portfolio-link.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-About%20Me-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <hr/>
