@@ -26,7 +26,7 @@
 
 <hr/>
 
-<h2>Technologies</h2>
+<h2 align="center">Technologies</h2>
 
 <h3 align="center">Core Technologies</h3>
 
