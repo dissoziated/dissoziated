@@ -78,3 +78,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dissoziated&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&title_color=ffffff&hide_border=true" />
 </p>
+
+
+<hr/>
+
+<h2 align="center">📈 LeetCode Tracker</h2>
+
+<p align="center">
+![Leetcode Stats](https://leetcard.jacoblin.cool/dissoziated?theme=dark)
