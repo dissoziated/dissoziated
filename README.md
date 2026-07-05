@@ -85,4 +85,5 @@
 <h2 align="center">📈 LeetCode Tracker</h2>
 
 <p align="center">
-![Leetcode Stats](https://leetcard.jacoblin.cool/dissoziated?theme=dark)
+  <img src="https://leetcard.jacoblin.cool/dissoziated?theme=dark" alt="Leetcode Stats" />
+</p>
