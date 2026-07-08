@@ -72,9 +72,7 @@
 
 <h2 align="center">🔥 Contribution Streak</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dissoziated&theme=dark&hide_border=true&background=0D1117" />
-</p>
+
 
 <hr/>
 
