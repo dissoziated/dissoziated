@@ -3,7 +3,7 @@
 </p>
 <hr>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=B2BEB5&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Web+Developer+%E2%80%A2+App+Developer;Building+Reliable+and+Observable+Systems;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=B2BEB5&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Web+Developer+%E2%80%A2+App+Developer+%E2%80%A2+Bug+Hunter;Building+Reliable+and+Observable+Systems;Open+Source+Contributor" />
 </p>
 <hr>
 <h2 align="center">🔗 Connect with me</h2>
